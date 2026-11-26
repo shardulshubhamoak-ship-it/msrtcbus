@@ -1,7 +1,0 @@
-{
-  "user": "shardulshubhamoak@gmail.com",
-  "appPassword": "PUT-YOUR-16-LETTER-GMAIL-APP-PASSWORD-HERE",
-  "host": "smtp.gmail.com",
-  "port": 465,
-  "brevoApiKey": "PUT-YOUR-BREVO-API-KEY-HERE (only needed on Render free plan)"
-}
